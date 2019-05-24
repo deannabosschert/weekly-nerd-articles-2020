@@ -8,12 +8,24 @@ Iedere week op woensdagmiddag is de Weekly Nerd: Workshops, lezingen en van bedr
 - Vakgerelateerde artikelen leren schrijven
 
 ## Werkwijze
+Een keer per week wordt er een presentatie gegeven door en over het vakgebied. 
+Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
+Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
+Heb je nog een afstudeerstage nodig?
 
-Voor de Weekly Nerd moet je een blog bij houden van de presentaties. Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. Van iedere presentatie maak je sketch notes die je op je blog post. Schrijf daaronder kort een lijstje met (interessante) onderwerpen die aan bod zijn gekomen,
 
-Je mag niet meer dan 1 Weekly Nerd missen. Gebeurt dit wel dan moet je een vervangende opdracht doen.
+Van iedere presentatie maak je sketch notes en aantekeningen die je op een blog post. 
+Schrijf daaronder kort een respource lijst met (interessante) onderwerpen die aan bod zijn gekomen.
+3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
+Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
+Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
+Engels wordt aangeraden.
 
-3 keer schrijf een uitgebreid artikel over een relevant onderwerp. Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. Zorg in je blog post voor juiste verwijzingen, bronvermelding en goede leesbare teksten. Engels wordt aangeraden.
+
+Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
+Je mag niet meer dan 1 Weekly Nerd missen. 
+Gebeurt dit wel dan moet je een vervangende opdracht doen.
+
 
 Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
 
