@@ -13,7 +13,7 @@ Voor de Weekly Nerd moet je een blog bij houden van de presentaties. Er wordt va
 
 Je mag niet meer dan 1 Weekly Nerd missen. Gebeurt dit wel dan moet je een vervangende opdracht doen.
 
-5 keer schrijf een uitgebreid artikel over een relevant onderwerp. Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. Zorg in je blog post voor juiste verwijzingen, bronvermelding en goede leesbare teksten. Engels wordt aangeraden.
+3 keer schrijf een uitgebreid artikel over een relevant onderwerp. Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. Zorg in je blog post voor juiste verwijzingen, bronvermelding en goede leesbare teksten. Engels wordt aangeraden.
 
 Je blog met de verslagen en 5 artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
 
