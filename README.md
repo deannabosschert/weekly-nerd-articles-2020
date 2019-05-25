@@ -1,7 +1,7 @@
 # Weekly Nerd @cmda-minor-web · 2018-2019
 
 Iedere week op woensdagmiddag is de Weekly Nerd: 
-Workshops, lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
 
 ## Leerdoelen
 - Kennismaken met het beroepenveld
