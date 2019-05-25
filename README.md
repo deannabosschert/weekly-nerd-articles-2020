@@ -16,7 +16,7 @@ Heb je nog een afstudeerstage nodig?
 
 
 Van iedere presentatie maak je sketch notes en aantekeningen die je op een blog post. 
-Schrijf ook altijd een respource lijst met links met (interessante) onderwerpen die aan bod zijn gekomen.
+Schrijf ook altijd een resource-lijstje met links met (interessante) onderwerpen die aan bod zijn gekomen.
 3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
 Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
 Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
