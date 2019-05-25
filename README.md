@@ -1,6 +1,7 @@
 # Weekly Nerd @cmda-minor-web · 2018-2019
 
-Iedere week op woensdagmiddag is de Weekly Nerd: Workshops, lezingen en van bedrijven en designers over het vakgebied Frontend Development. Nerd alert.
+Iedere week op woensdagmiddag is de Weekly Nerd: 
+Workshops, lezingen van bedrijven en designers over het vakgebied Frontend Development. Nerd alert.
 
 ## Leerdoelen
 - Kennismaken met het beroepenveld
