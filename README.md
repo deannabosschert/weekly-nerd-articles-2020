@@ -12,7 +12,8 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 Een keer per week wordt er een presentatie gegeven door en over het vakgebied. 
 Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
 Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Heb je nog een afstudeerstage nodig?
+Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
+
 
 
 Van iedere presentatie maak je sketch notes en aantekeningen die je op een blog verzameld. 
