@@ -42,15 +42,16 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 ## Programma
 
-### Gastsprekers
+### Workshops, praatjes en lezingen
 
-27 Februari Cyd en Dennis @Matise
 
-13 Maart Maike Klip, The Good, the Bad and The interesting in de Medialounge
+| Datum  | Wat  | Waar | Link  |
+|---|---|---|---|
+| 27 Februari   | Cyd Stumpel & Dennis over         | Matise          |                                        |
+| 13 Maart      | Maike Klip over                   | CMD Medialounge | The Good, the Bad and The interesting  |
+| 20 Maart      | Ischa Gast over toegankelijkheid  | Schiphol        |                                        |
+| 27 Maart      | Workshop PE                       | de Voorhoede    |                                        |
 
-20 Maart Ischa Gast @Schiphol
-
-27 Maart Workshop @Voorhoede
 
 
 ### Weekly Mingle
