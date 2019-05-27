@@ -47,13 +47,20 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 | Datum  | Wat  | Waar | Link  |
 |---|---|---|---|
-| 27 Februari | Cyd Stumpel & Dennis over | Matise          |                                        |
-| 13 Maart | Maike Klip over | CMD Medialounge | The Good, the Bad and The interesting  |
-| 20 Maart | Ischa Gast over toegankelijkheid | Schiphol        |                                        |
-| 27 Maart | Workshop PE | de Voorhoede    |                                        |
+| 6 Februari  |   |   |   |
+| 13 Februari  |   |   |   |
+| 27 Februari | Cyd Stumpel (ex) & Dennis Spierenburg (ex) over werken als Frontender bij Matise | <a href="https://www.matise.nl">Matise</a> |   |
+
+| 13 Maart | Maike Klip over ontwerpen voor vluchtelingen | CMD | ICONS - The Good, the Bad and The interesting |
+| 20 Maart | Ischa Gast over A11y | Schiphol |   |
+| 27 Maart | Workshop PE | <a href="">de Voorhoede</a> |   |
+
+| 10 April  | Daan Rongen over afstuderen en  | CMD  |   |
+| 17 April  | Thomas Harkema & Lisa Klein (ex) over werken als Frontender bij Q42  | <a href="https://www.q42.nl">Q42</a>  |   |
+| 24 April  | Weekly Mingle  |   |   |
+| 15 Mei  | Weekly Mingle  |   |   |
+| 22 Mei  | Weekly Mingle  |   |   |
 
 
-
-### Weekly Mingle
 
 [Indeling voor de Mingle](https://docs.google.com/spreadsheets/d/1p5jQ3j5DAknpjaZVpOfyqoqAt5b-9lf0UkZSx5mDUEM/edit#gid=0)
