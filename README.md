@@ -47,18 +47,34 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 | Datum  | Wat  | Waar | Link  |
 |---|---|---|---|
-| 6 Februari |   |   |   |
-| 13 Februari |   |   |   |
+| 6 Februari | Sketchnotes met Maaike van Cruchten en Brit Wijnmaalen   |   |   |
+| 13 Februari | Stephan Hay over Design Patterns  |   |   |
 | 27 Februari | Cyd Stumpel (ex) & Dennis Spierenburg (ex) over werken als Frontender bij Matise | <a href="https://www.matise.nl">Matise</a> |   |
 | 13 Maart | Maike Klip over ontwerpen voor vluchtelingen | CMD | ICONS |
 | 20 Maart | Ischa Gast over A11y | )a href="https://schiphol.nl">Schiphol</a> |   |
 | 27 Maart | Workshop PE | <a href="https://www.voorhoede.nl/nl/">de Voorhoede</a> |   |
 | 10 April | Daan Rongen over afstuderen en je eigen signatuur behouden | CMD  |   |
-| 17 April | Thomas Harkema & Lisa Klein (ex) over werken als Frontender bij Q42  | <a href="https://www.q42.nl">Q42</a>  |   
+| 17 April | Weekly Mingle |   |   |
 | 24 April | Weekly Mingle |   |   |
+| 8 Mei | Weekly Mingle |   |   |
 | 15 Mei | Weekly Mingle |   |   |
 | 22 Mei | Weekly Mingle |   |   |
+| 29 Mei | Weekly Mingle |   |   |
+| 5 Juni | Weekly Mingle |   |   |
+| 12 Juni | Weekly Mingle |   |   |
+| 19 Juni | Weekly Mingle |   |   |
 
 
+### Weekly Mingle
+Voor de Weekly Mingle gaan we een aantal weken bedrijven bezoeken. In kleine groepjes ga je kennismaken, krijg je een rondleiding en een presentatie. De bedrijven die hier aan meewerken zijn:
+
+* <a href="https://www.deptagency.com/nl-nl/">Dept Amsterdam</a>	
+* <a href="https://www.elastique.nl">Elastique</a>
+* <a href="https://www.valtech.com/nl-nl/">Valtech Amsterdam</a>
+* <a href="https://www.mirabeau.nl">Mirabeau Amsterdam</a>
+* <a href="https://www.q42.nl/">Q42 Amsterdam</a>
+* <a href="https://www.matise.nl">Matise</a>
+* <a href="https://www.icatt.nl">ICATT interactive media</a>
+* <a href="https://lifely.nl">Lifely</a>
 
 [Indeling voor de Weekly Mingle](https://docs.google.com/spreadsheets/d/1p5jQ3j5DAknpjaZVpOfyqoqAt5b-9lf0UkZSx5mDUEM/edit#gid=0)
