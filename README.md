@@ -47,11 +47,11 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 | Datum  | Wat  | Waar | Link  |
 |---|---|---|---|
-| 6 Februari | Sketchnotes met Maaike van Cruchten en Brit Wijnmaalen   |   |   |
+| 6 Februari | Sketchnotes met Maaike van Cruchten en Brit Wijnmaalen   | CMD |   |
 | 13 Februari | Stephan Hay over Design Patterns  |   |   |
 | 27 Februari | Cyd Stumpel (ex) & Dennis Spierenburg (ex) over werken als Frontender bij Matise | <a href="https://www.matise.nl">Matise</a> |   |
 | 13 Maart | Maike Klip over ontwerpen voor vluchtelingen | CMD | ICONS |
-| 20 Maart | Ischa Gast over A11y | )a href="https://schiphol.nl">Schiphol</a> |   |
+| 20 Maart | Ischa Gast over A11y | <a href="https://schiphol.nl">Schiphol</a> |   |
 | 27 Maart | Workshop PE | <a href="https://www.voorhoede.nl/nl/">de Voorhoede</a> |   |
 | 10 April | Daan Rongen over afstuderen en je eigen signatuur behouden | CMD  |   |
 | 17 April | Weekly Mingle |   |   |
