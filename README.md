@@ -9,7 +9,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 - Vakgerelateerde artikelen leren schrijven
 
 ## Werkwijze
-Een keer per week wordt er een presentatie gegeven door iemand uit het vakgebied. 
+Elke week wordt er een presentatie gegeven door iemand uit het vakgebied. 
 Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
 Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
 Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
