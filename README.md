@@ -15,7 +15,7 @@ Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkve
 Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
 
 
-Van iedere presentatie maak je sketch-notes en aantekeningen die je op een blog verzameld. 
+Van iedere presentatie maak je sketch-notes en aantekeningen die je op een blog verzamelt. 
 Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
 3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
 Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
