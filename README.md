@@ -44,7 +44,7 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 ### Workshops, praatjes en lezingen
 
-
+<!--
 | Datum  | Wat  | Waar | Link  |
 |---|---|---|---|
 | 6 Februari | Sketchnotes met Maaike van Cruchten en Brit Wijnmaalen   | CMD |   |
@@ -63,11 +63,12 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 | 5 Juni | Weekly Mingle |   |   |
 | 12 Juni | Weekly Mingle |   |   |
 | 19 Juni | Weekly Mingle |   |   |
-
+-->
 
 ### Weekly Mingle
 Voor de Weekly Mingle gaan we een aantal weken bedrijven bezoeken. In kleine groepjes ga je kennismaken, krijg je een rondleiding en een presentatie. De bedrijven die hier aan meewerken zijn:
 
+<!--
 * <a href="https://www.deptagency.com/nl-nl/">Dept Amsterdam</a>	
 * <a href="https://www.elastique.nl">Elastique</a>
 * <a href="https://www.valtech.com/nl-nl/">Valtech Amsterdam</a>
@@ -76,6 +77,7 @@ Voor de Weekly Mingle gaan we een aantal weken bedrijven bezoeken. In kleine gro
 * <a href="https://www.matise.nl">Matise</a>
 * <a href="https://www.icatt.nl">ICATT interactive media</a>
 * <a href="https://lifely.nl">Lifely</a>
+-->
 
 [Indeling voor de Weekly Mingle](https://docs.google.com/spreadsheets/d/1p5jQ3j5DAknpjaZVpOfyqoqAt5b-9lf0UkZSx5mDUEM/edit#gid=0)
 
