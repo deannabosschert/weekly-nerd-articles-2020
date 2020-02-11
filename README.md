@@ -79,7 +79,7 @@ Voor de Weekly Mingle gaan we een aantal weken bedrijven bezoeken. In kleine gro
 * <a href="https://lifely.nl">Lifely</a>
 -->
 
-[Indeling voor de Weekly Mingle](https://docs.google.com/spreadsheets/d/1p5jQ3j5DAknpjaZVpOfyqoqAt5b-9lf0UkZSx5mDUEM/edit#gid=0)
+<!--[Indeling voor de Weekly Mingle](https://docs.google.com/spreadsheets/d/1p5jQ3j5DAknpjaZVpOfyqoqAt5b-9lf0UkZSx5mDUEM/edit#gid=0)-->
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
