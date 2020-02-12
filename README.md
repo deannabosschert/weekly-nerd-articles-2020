@@ -47,10 +47,11 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 ### Workshops, praatjes en lezingen
 
 
-| Datum  | Wat  | Waar | Link  |
+| Datum  |  Wat/Wie | Waar  | Link | 
 |---|---|---|---|
+| 13 Februari  | Hidde de Vries - Toegankelijkheid en CSS expert bij W3C  | BPH 01B11  |   |
+|   |   |   |   |   |
 
-| 13 Februari | Hidde de Vries - Toegankelijkheid en CSS expert bij W3C  | BPH 01B11 |   |
 
 
 
