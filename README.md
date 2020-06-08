@@ -51,8 +51,8 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 | 13 Februari  | Hidde de Vries - Toegankelijkheid en CSS expert bij W3C  | BPH 01B11  |   |
 | 19 Februari  | Sanne 't Hoofd - Code en UX  | BPH 01B11  |   |
 | 26 Februari  | FUNDA - Scrum en proof-of-concept  | Funda  |   |
-| ~~11 Maart  | ~~Voorhoede - PE | ~~de Voorhoede  |   |
-| ~~18 Maart  | ~~Bol.com  | ~~Bol.com  |   |
+| ~~11 Maart~~  | ~~Voorhoede - PE~~ | ~~de Voorhoede~~  |   |
+| ~~18 Maart~~  | ~~Bol.com~~  | ~~Bol.com~~  |   |
 |   |   |   |   |   |
 
 
