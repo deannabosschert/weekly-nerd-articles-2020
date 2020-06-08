@@ -17,10 +17,9 @@ Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdrac
 
 Van iedere presentatie maak je **sketch-notes / aantekeningen** die je op een blog verzamelt. 
 Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
-3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.  
+
+
+
 
 Tip: Fork deze repo en publiceer je blog via GitHub Pages!
 
@@ -30,6 +29,11 @@ Er wordt van je verwacht dat je alle Weekly Nerds bijwoont.
 Je mag niet meer dan 1 Weekly Nerd missen. 
 Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
 
+
+3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
+Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
+Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
+Engels wordt aangeraden.  
 Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
 
 
