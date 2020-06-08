@@ -15,13 +15,8 @@ Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkve
 Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
 
 
-Van iedere presentatie maak je **sketch-notes / aantekeningen** die je op een blog verzamelt. 
+Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een blog. 
 Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
-
-
-
-
-Tip: Fork deze repo en publiceer je blog via GitHub Pages!
 
 
 ## Criteria
@@ -54,6 +49,10 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 | Datum  |  Wat/Wie | Waar  | Link | 
 |---|---|---|---|
 | 13 Februari  | Hidde de Vries - Toegankelijkheid en CSS expert bij W3C  | BPH 01B11  |   |
+| 19 Februari  | Sanne 't Hoofd - Code en UX  | BPH 01B11  |   |
+| 26 Februari  | FUNDA - Scrum en proof-of-concept  | Funda  |   |
+~~| 11 Maart  | Voorhoede - PE | de Voorhoede  |   |~~
+~~| 18 Maart  | Bol.com  | Bol.com  |   |~~
 |   |   |   |   |   |
 
 
