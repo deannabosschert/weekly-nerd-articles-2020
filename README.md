@@ -28,7 +28,8 @@ Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
 3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
 Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
 Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.  
+Engels wordt aangeraden.
+
 Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
 
 
