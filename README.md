@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary><strong>Course text</strong> (click to expand)</summary>
+  <summary><strong>Course text</strong> (click to expand.png)</summary>
 
 Elke week is er op woensdagmiddag de Weekly Nerd:
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
@@ -20,7 +20,7 @@ Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdrac
 
 
 Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een blog.
-Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
+Schrijf ook altijd een link-lijstje met (interessante.png) onderwerpen die aan bod zijn gekomen.
 
 
 ## Criteria
@@ -30,7 +30,7 @@ Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
 
 
 3 keer schrijf je een uitgebreid artikel over een relevant onderwerp.
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld.
+Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische.png) analyse van een website die in een Weekly Nerd is behandeld.
 Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten.
 Engels wordt aangeraden.
 
@@ -66,18 +66,18 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 # Weekly Nerd's
 ## Best Practices at Q42 by Guido Bouman
-![sketchnotes of the Weekly Nerd by Guido: picture 1 of 3](https://github.com/deannabosschert/weekly-nerd-1920/tree/master/docs/img/best_practices_at_q42_1)
+![sketchnotes of the Weekly Nerd by Guido: picture 1 of 3]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/best_practices_at_q42_1.png)
 
-![sketchnotes of the Weekly Nerd by Guido: picture 2 of 3](https://github.com/deannabosschert/weekly-nerd-1920/tree/master/docs/img/best_practices_at_q42_2)
+![sketchnotes of the Weekly Nerd by Guido: picture 2 of 3]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/best_practices_at_q42_2.png)
 
-![sketchnotes of the Weekly Nerd by Guido: picture 3 of 3](https://github.com/deannabosschert/weekly-nerd-1920/tree/master/docs/img/best_practices_at_q42_3)
+![sketchnotes of the Weekly Nerd by Guido: picture 3 of 3]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/best_practices_at_q42_3.png)
 
 ## Introductie functional programming by Justus Sturkenboom
 
-![sketchnotes of the lecture by Justus: picture 1 of 2](https://github.com/deannabosschert/weekly-nerd-1920/tree/master/docs/img/introductie_functional_programming_1)
-![sketchnotes of the lecture by Justus: picture 2 of 2](https://github.com/deannabosschert/weekly-nerd-1920/tree/master/docs/img/introductie_functional_programming_2)
+![sketchnotes of the lecture by Justus: picture 1 of 2]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/introductie_functional_programming_1.png)
+![sketchnotes of the lecture by Justus: picture 2 of 2]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/introductie_functional_programming_2.png)
 
 
 ## Ontwerpen met CSS by Sanne 't Hooft
-![sketchnotes of the lecture by Sanne: picture 1 of 2](https://github.com/deannabosschert/weekly-nerd-1920/tree/master/docs/img/ontwerpen_met_css_1.png)
-![sketchnotes of the lecture by Sanne: picture 2 of 2](https://github.com/deannabosschert/weekly-nerd-1920/tree/master/docs/img/ontwerpen_met_css_2.png)
+![sketchnotes of the lecture by Sanne: picture 1 of 2]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/ontwerpen_met_css_1.png.png)
+![sketchnotes of the lecture by Sanne: picture 2 of 2]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/ontwerpen_met_css_2.png.png)
