@@ -1,5 +1,9 @@
 # Weekly Nerd @cmda-minor-web · 2019-2020
 
+
+<details>
+  <summary><strong>Course text</strong> (click to expand)</summary>
+
 Elke week is er op woensdagmiddag de Weekly Nerd: 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
 
@@ -57,5 +61,6 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 |   |   |   |   |   |
 
 
+</details>
 
 
