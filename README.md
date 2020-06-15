@@ -79,5 +79,5 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 
 ## Ontwerpen met CSS by Sanne 't Hooft
-![sketchnotes of the lecture by Sanne: picture 1 of 2](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/ontwerpen_met_css_1.png.png)
-![sketchnotes of the lecture by Sanne: picture 2 of 2](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/ontwerpen_met_css_2.png.png)
+![sketchnotes of the lecture by Sanne: picture 1 of 2](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/ontwerpen_met_css_1.png)
+![sketchnotes of the lecture by Sanne: picture 2 of 2](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/ontwerpen_met_css_2.png)
