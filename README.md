@@ -39,11 +39,11 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 ### Voorbeelden van voorgaande jaren
 
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
+* (https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
+* (https://codepen.io/servinnissen/post/plan-then-code
+* (https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
+* (https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
+* (https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
 
 
 ## Programma
@@ -66,18 +66,18 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 # Weekly Nerd's
 ## Best Practices at Q42 by Guido Bouman
-![sketchnotes of the Weekly Nerd by Guido: picture 1 of 3]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/best_practices_at_q42_1.png)
+![sketchnotes of the Weekly Nerd by Guido: picture 1 of 3](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/best_practices_at_q42_1.png)
 
-![sketchnotes of the Weekly Nerd by Guido: picture 2 of 3]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/best_practices_at_q42_2.png)
+![sketchnotes of the Weekly Nerd by Guido: picture 2 of 3](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/best_practices_at_q42_2.png)
 
-![sketchnotes of the Weekly Nerd by Guido: picture 3 of 3]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/best_practices_at_q42_3.png)
+![sketchnotes of the Weekly Nerd by Guido: picture 3 of 3](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/best_practices_at_q42_3.png)
 
 ## Introductie functional programming by Justus Sturkenboom
 
-![sketchnotes of the lecture by Justus: picture 1 of 2]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/introductie_functional_programming_1.png)
-![sketchnotes of the lecture by Justus: picture 2 of 2]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/introductie_functional_programming_2.png)
+![sketchnotes of the lecture by Justus: picture 1 of 2](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/introductie_functional_programming_1.png)
+![sketchnotes of the lecture by Justus: picture 2 of 2](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/introductie_functional_programming_2.png)
 
 
 ## Ontwerpen met CSS by Sanne 't Hooft
-![sketchnotes of the lecture by Sanne: picture 1 of 2]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/ontwerpen_met_css_1.png.png)
-![sketchnotes of the lecture by Sanne: picture 2 of 2]https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/ontwerpen_met_css_2.png.png)
+![sketchnotes of the lecture by Sanne: picture 1 of 2](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/ontwerpen_met_css_1.png.png)
+![sketchnotes of the lecture by Sanne: picture 2 of 2](https://github.com/deannabosschert/weekly-nerd-1920/blob/master/docs/img/ontwerpen_met_css_2.png.png)
