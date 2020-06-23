@@ -1,5 +1,5 @@
 # Weekly Nerd @cmda-minor-web · 2019-2020
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d880a51-25bb-4fa6-be6f-9c99609c7586/deploy-status)](https://app.netlify.com/sites/weekly-nerd/deploys)
 
 <details>
   <summary><strong>Course text</strong> (click to expand.png)</summary>
