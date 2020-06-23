@@ -1,0 +1,25 @@
+{
+  "name": "weekly-nerd-1920",
+  "version": "1.0.0",
+  "description": "Blogposts and sketchnotes of lectures && conferences",
+  "scripts": {
+    "predev": "rimraf _site",
+    "dev": "npx @11ty/eleventy --formats=html,gif,jpg,png --serve --port=8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deannabosschert/weekly-nerd-1920.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deannabosschert/weekly-nerd-1920/issues"
+  },
+  "homepage": "https://github.com/deannabosschert/weekly-nerd-1920#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "rimraf": "^3.0.2",
+    "file-size": "^1.0.0"
+  }
+}

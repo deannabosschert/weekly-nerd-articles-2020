@@ -1,0 +1,29 @@
+---
+title: Weekly Nerd 2020
+images:
+  - best_practices_at_q42_1.png
+  - best_practices_at_q42_2.png
+  - best_practices_at_q42_3.png
+  - introductie_functional_programming_1.png
+  - introductie_functional_programming_2.png
+  - ontwerpen_met_css_1.png
+  - ontwerpen_met_css_2.png
+
+---
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <title>{{ title }}</title>
+ </head>
+ <body>
+  <h1>{{ title }}</h1>
+  <ul>
+   {%- for filename in images %}
+   <figure class="sketchnotes-container">
+     <img class="sketchnotes" src="img/{{ filename }}" alt="{{ filename }}" />
+   </figure>
+   {%- endfor %}
+   </ul>
+ </body>
+ </html>
