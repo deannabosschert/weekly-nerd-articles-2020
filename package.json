@@ -4,7 +4,7 @@
   "description": "Blogposts and sketchnotes of lectures && conferences",
   "scripts": {
     "predev": "rimraf _site",
-    "dev": "npx @11ty/eleventy --formats=html,gif,jpg,png --serve --port=3000",
+    "dev": "npx @11ty/eleventy --formats=html,gif,jpg,png,css --serve --port=3000",
     "debug": "DEBUG=* eleventy"
   },
   "repository": {
