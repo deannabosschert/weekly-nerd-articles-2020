@@ -1,33 +1,118 @@
 <!doctype html>
 <html lang="en">
- <head>
+
+<head>
   <meta charset="utf-8">
   <title>Weekly Nerd 2020</title>
- </head>
- <body>
-  <h1>Weekly Nerd 2020</h1>
-  <ul>
-   <figure class="sketchnotes-container">
-     <img class="sketchnotes" src="img/best_practices_at_q42_1.png" alt="best_practices_at_q42_1.png" />
-   </figure>
-   <figure class="sketchnotes-container">
-     <img class="sketchnotes" src="img/best_practices_at_q42_2.png" alt="best_practices_at_q42_2.png" />
-   </figure>
-   <figure class="sketchnotes-container">
-     <img class="sketchnotes" src="img/best_practices_at_q42_3.png" alt="best_practices_at_q42_3.png" />
-   </figure>
-   <figure class="sketchnotes-container">
-     <img class="sketchnotes" src="img/introductie_functional_programming_1.png" alt="introductie_functional_programming_1.png" />
-   </figure>
-   <figure class="sketchnotes-container">
-     <img class="sketchnotes" src="img/introductie_functional_programming_2.png" alt="introductie_functional_programming_2.png" />
-   </figure>
-   <figure class="sketchnotes-container">
-     <img class="sketchnotes" src="img/ontwerpen_met_css_1.png" alt="ontwerpen_met_css_1.png" />
-   </figure>
-   <figure class="sketchnotes-container">
-     <img class="sketchnotes" src="img/ontwerpen_met_css_2.png" alt="ontwerpen_met_css_2.png" />
-   </figure>
-   </ul>
- </body>
- </html>
+  <link rel="stylesheet" type="text/css" href="/style.css" </head>
+
+<body>
+  <header>
+    <h1>Weekly Nerd 2020</h1>
+  </header>
+  <main>
+    <section>
+      <section class="weekly-nerd-book">
+        <div class="book">
+          <article class="weekly-nerd-inleiding">
+            <p>De <strong>Weekly Nerd</strong> is een vak binnen de de minor Web Development bij CMD Amsterdam.
+              Waar dit uit bestond?
+              <ul>
+                <li>Kennismaken met het beroepenveld</li>
+                <li>Orienteren op het vakgebied</li>
+                <li>Vakgerelateerde artikelen leren schrijven</li>
+              </ul>
+            </p>
+            <p>
+              Speciaal hiervoor ontvingen wij een nieuw, mooi sketchnotingboekje en bijbehorende tools (Fineliners, Sharpie, Twinmarker, dat soort dingen..).
+              Het was dan ook de bedoeling dat overal deze aantekeningen van gemaakt zouden worden.</p>
+            <p>Aangezien ik eigenlijk al een tablet aan had geschaft inclusief de notitie-app Notability (dus: voor sketchnoting!) voor dit soort dingen, iets met een onleesbaar handschrift, heb ik ervoor gekozen het fysieke boekje even links te
+              laten
+              liggen en digitale aantekeningen te maken.</p>
+            <p>Maar, nu leek het mij dan weer wel zo leuk om mijn sketchnotes in boekvorm te presenteren! Klik op de pagina’s hiernaast om een pagina verder te bladeren, of juist een pagina terug.
+            </p>
+          </article>
+          <input type="radio" name="page" id="page-1" checked />
+          <label class="page cover" for="page-3">
+            <h1>Sketchnotes</h1>
+          </label>
+          <label class="page cover" for="page-1">
+            <h2>Inleiding.</h2>
+            <p>Elke week zou op woensdagmiddag de Weekly Nerd plaatsvinden: Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.</p>
+            <p>Helaas kwam Corona halverwege deze planning, maar gelukkig hebben er nog zeker een aantal dingen wél plaatsgevonden.
+              Zo zijn er bijvoorbeeld een aantal presentaties gegeven door iemand uit het vakgebied.
+              Zo konden wij een goed beeld van het vakgebied krijgen en contacten in het werkveld opdoen.</p>
+            <p>Van iedere presentatie heb ik dan ook (digitale) sketchnotes gemaakt en deze verzameld in dit boek.
+              Veel leesplezier!</p>
+          </label>
+          <input type="radio" name="page" id="page-3" />
+          <label class="page" for="page-5">
+            <h2>Best Practices at Q42</h2>
+            <p>Guido is werkzaam bij Q42 en tevens gastdocent bij de minor. Over de weken heen heeft hij vaker lessen gegeven; deze presentatie was daarentegen niet specifiek gefocust op de vakprojecten maar een 'extra' gastcollege.</p>
+            <p>Hij vertelde over de 'best practices' bij Q42,  de kunst van Defensive Programming en het carrièrepad dat hij zelf bewandeld heeft.</p>
+            <p>Ook ontvingen wij tips betreft omgaan met opdrachtgevers,  duidelijke communicatie en planning</p>
+          </label>
+          <label class="page" for="page-3">
+            <img class="sketchnotes" src="img/best_practices_at_q42_1.png" alt="best practices at q42" />
+          </label>
+          <input type="radio" name="page" id="page-5" />
+          <label class="page" for="page-7">
+            <img class="sketchnotes" src="img/best_practices_at_q42_2.png" alt="best practices at q42" />
+          </label>
+          <label class="page" for="page-5">
+            <img class="sketchnotes" src="img/best_practices_at_q42_3.png" alt="best practices at q42" />
+          </label>
+          <input type="radio" name="page" id="page-7" />
+
+          <label class="page" for="page-9">
+            <h2>Introductie functional programming door Justus Sturkenboom</h2>
+            <p>Justus Sturkenboom is docent bij CMD Amsterdam en nam ons mee in de wereld van Functional Programming. Ondanks dat het natuurlijk supertechnisch was, wist hij het wel echt ontzettend helder te vertellen. Hij sprak over de programming
+              paradigms, pure en impure functies en verwoordde wat ‘FP’ nou eigenlijk betekent en bevat.</p>
+          </label>
+          <label class="page" for="page-7">
+            <img class="sketchnotes" src="img/introductie_functional_programming_1.png" alt="introduction functional programming" />
+          </label>
+          <input type="radio" name="page" id="page-9" />
+          <label class="page" for="page-11">
+            <img class="sketchnotes" src="img/introductie_functional_programming_2.png" alt="introduction functional programming" />
+          </label>
+          <label class="page" for="page-9">
+            <h2>Sanne 't Hooft - Code en UX</h2><p>Sanne ’t Hooft is docent bij CMD Amsterdam en gaf een les over CSS en wat voor toffe (illustratieve) dingen je er wel niet mee kan doen. Hij toonde zijn eigen werk, de opbouw van zijn SRP-cursus CSS’en, het werk van studenten tijdens
+              die cursus en alles binnen dit proces. Daarnaast kaartte hij het belang van microinteracties aan.</p>
+          </label>
+          <input type="radio" name="page" id="page-11" />
+          <label class="page" for="page-13">
+            <img class="sketchnotes" src="img/ontwerpen_met_css_1.png" alt="ontwerpen met css" />
+          </label>
+          <label class="page" for="page-11">
+            <img class="sketchnotes" src="img/ontwerpen_met_css_2.png" alt="ontwerpen met css" />
+          </label>
+
+          <input type="radio" name="page" id="page-13" />
+          <label class="page" for="page-15">
+            <h2>Hidde de Vries - Toegankelijkheid en CSS expert bij W3C</h2>
+            <p>Hidde liet zien hoe grids op het web worden gebruikt, voor wat voor toepassingen het kan worden ingezet en adviseerde om vooral veel te blijven experimenteren met grid én flexbox.</p>
+          </label>
+          <label class="page" for="page-13">
+            <p>weekly geek 1: hidde & grids</p>
+            <!-- <img class="sketchnotes" src="img/ontwerpen_met_css_2.png" alt="ontwerpen met grid" /> -->
+          </label>
+          <input type="radio" name="page" id="page-15" />
+          <label class="page" for="page-17">
+            <p>weekly geek 1: hidde & grids</p>
+            <!-- <img class="sketchnotes" src="img/ontwerpen_met_css_2.png" alt="ontwerpen met grid" /> -->
+          </label>
+          <label class="page" for="page-15">
+            <p>Laatste pagina.</p>
+            <p>The end.</p>
+          </label>
+          <input type="radio" name="page" id="page-17" />
+          <label class="page cover" for="page-19"></label>
+          <label class="page cover" for="page-17"></label>
+          <input type="radio" name="page" id="page-19" />
+        </div>
+      </section>
+  </main>
+</body>
+
+</html>
