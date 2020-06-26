@@ -1,26 +1,18 @@
 /* source of book https://codepen.io/Penno/pen/MJevVP */
-html,
+@import 'reset.css';
+
 body {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
-  font-family: "Times New Roman", Times, serif;
-  background-image: radial-gradient(ellipse at center, #fbf8fb 0%, #ece0ec 100%);
+  font-family: sans-serif;
+  /* background-image: radial-gradient(ellipse at center, #fbf8fb 0%, #ece0ec 100%); */
   background-image: radial-gradient(#ece0ec 10%, transparent 0);
   background-size: 20px 20px;
-}
-
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
 }
 
 header {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 2rem;
 }
 
 main {
@@ -32,10 +24,14 @@ main {
 
 h1 {
   font-size: 2.8rem;
+  font-family: "Times New Roman", Times, serif;
+  margin-bottom: 2rem;
+  align-self: center;
 }
 
 h2 {
   font-size: 2.4rem;
+  margin-bottom: 1rem;
 }
 
 h3 {
@@ -46,10 +42,107 @@ h4 {
   font-size: 1.5rem;
 }
 
+p, li {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+li {
+  list-style: none;
+  max-width: 75vw;
+}
+
+article li::before {
+  content: "⬤";
+  color: #754575;
+  box-shadow: 0 -4px -2px 0 white, 0 4px 4px 2px #fafafa;
+  margin-right: 1rem;
+  font-size: 0.7rem;
+}
+
 .weekly-nerd-book {
   max-width: 80vw;
   max-height: 700px;
   margin-bottom: 11rem;
+}
+
+.article_toggle {
+  display: flex;
+  flex-direction: row;
+  background-color: #ece0ec;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 1rem;
+  justify-content: space-around;
+  /* align-content: center; */
+}
+
+.article_toggle li {
+  align-self: center;
+  border-bottom: 3px solid #754575;
+  margin-bottom: 0;
+}
+
+.article_toggle a {
+  font-size: 1.4rem;
+  font-weight: bolder;
+  text-decoration: none;
+  color: black;
+}
+
+.artikelen {
+  display: flex;
+  flex-direction: column;
+  max-width: 80vw;
+}
+
+.artikelen p {
+  max-width: 90%;
+  line-height: 1.4;
+}
+
+.artikelen h2 {
+  margin-top: 3rem;
+}
+
+.artikelen h3 {
+  margin-bottom: 1.5rem;
+  margin-top: 2rem;
+}
+
+.artikelen h4 {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+.artikelen img {
+  max-width: 100%;
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
+  max-height: 70vh;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5rem 10px;
+  padding: 0.5rem 10px;
+  max-width: 80%;
+}
+
+blockquote:before {
+  color: #ccc;
+  font-size: 4rem;
+  line-height: 0.1rem;
+  margin-right: 1rem;
+  vertical-align: -0.4rem;
+}
+
+blockquote p {
+  display: inline;
+  font-style: italic;
 }
 
 .book {
@@ -59,6 +152,7 @@ h4 {
   user-select: none;
   display: flex;
   flex-wrap: wrap;
+  margin-top: 1rem;
 }
 
 .page {
@@ -191,7 +285,7 @@ input:checked+.page+.page+input+.page {
   max-width: 85%;
   max-height: 100%;
   line-height: 1.4;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 .weekly-nerd-inleiding {
@@ -200,22 +294,5 @@ input:checked+.page+.page+input+.page {
   max-height: 100%;
   line-height: 1.4;
   font-size: 1.3rem;
-}
-
-.weekly-nerd-inleiding li {
-  list-style: none;
-}
-
-.weekly-nerd-inleiding li::before {
-  content: "⬤";
-  color: #754575;
-  box-shadow: 0 -4px -2px 0 white, 0 4px 4px 2px #fafafa;
-  margin-right: 1rem;
-  font-size: 0.7rem;
-}
-
-.artikelen {
-  display: flex;
-  flex-direction: column;
-
+  margin-top: 1rem;
 }
