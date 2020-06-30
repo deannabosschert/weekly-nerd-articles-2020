@@ -268,7 +268,47 @@ images:
       </article>
       <article class="article_2" id="article_2">
         <h2>Atomic Design</h2>
-        <h3>titeldingen</h3>
+        <p>When I first heard about the term ‘Atomic Design’, it was only 2.5 years ago. All this time, the idea of working with this principle lingered around in my mind. The concept was so easy and clear; this is how I would like to develop things. Also, this year, I figured I really wanted to make some ‘personal’ set of resources/standard components to use in my projects so I can focus more on learning other things beside spending all my time on design only instead of code. That’s when I got introduced to the so-called Design Pattern Libraries. I decided I wanted to combine those two and make my own examples to explain Atomic Design with.</p>
+        <h3 id="what-is-atomic-design-">What is Atomic Design?</h3>
+        <p>Before, webpages were mostly just seen as whole pages. The header/footer was mostly the same though, and usually already ‘separated’ from the pages itself and imported in each one. This can be viewed as the first step towards an Atomic-way of thinking. Then, Brad Frost came across with the actual concept of Atomic Design. It’s a methodology for the creation of design systems.</p>
+        <p>It wouldn’t surprise you that it’s based on chemistry; webpages are split up into elements, components, molecules, atoms and so on. Just like in real life (great mental model,  y’all!); even though I only took one year of chemistry class in high school and sucked at it anyways, I could understand it immediately.</p>
+        <p><strong>TL;DR</strong> Atomic design is methodology for creating design systems. There are five distinct levels in atomic design:</p>
+        <p><img src="https://paper-attachments.dropbox.com/s_D020F27BF80BBC416D067BAB6BE93305605C92502A62E89D4F406DA4F30DA228_1593465587422_atomic_design_grouping.png" alt="atomic_design_grouping"></p>
+        <h4 id="atoms">Atoms</h4>
+        <p>Atoms are the smallest parts. Everything is built out of them; they’re the basic building blocks.
+        Think of it as the ‘base’ parts in SMACCS, or just simply; the HTML-elements.</p>
+        <ul>
+        <li>Form labels</li>
+        <li>Inputs</li>
+        <li>Buttons</li>
+        <li>H1, H2, H3, etc</li>
+        </ul>
+        <p><img src="" alt="atom example"></p>
+        <h4 id="molecules">Molecules</h4>
+        <p>What happens when you combine atoms? You get a molecule!</p>
+        <p><img src="https://media.giphy.com/media/keTSNzurguH0r0PwLk/giphy.gif" alt="oprah gif of ‘and you get a molecule’">
+        These are the first valuable ‘building blocks’. They may form something like a search field. It’s just a group of atoms chilling out and working together, united.</p>
+        <h4 id="organisms">Organisms</h4>
+        <p>Organisms are basically just molecules put into context. Meaningful chunks of blocks. It’s a standalone thing, like a header or footer and re-usable among pages.</p>
+        <h4 id="templates">Templates</h4>
+        <p>Templates are an even bigger part; think of it like the organisms placed into a layout; just like bees inside their hive. It defines the content structure, like a wireframe. Now, it’s beginning to look like an actual page, right? You only need to get rid of the Lorem Ipsum.</p>
+        <h4 id="pages">Pages</h4>
+        <p>This is essentially the ‘final product’. It’s the template(s) combined to a page, filled with content. Ready to test!</p>
+        <h3 id="conclusion">Conclusion</h3>
+        <p>Okay so, it eventually took me a whole day to write this one article because it was actually so much fun to try and make a beginning with my pattern library, based on Atomic Design. I highly recommend building your libraries like that; coding in isolation saves lots of headaches.</p>
+        <p>I’ve been coding in Codepen, if you’re curious about the structure of it all, check out my pens:</p>
+        <ul>
+        <li><a href="https://codepen.io/deannabosschert/pen/dyGVxqm">Atom</a> (button)</li>
+        <li><a href="https://codepen.io/deannabosschert/pen/KKVXOEV">Molecule</a> (search bar)</li>
+        <li><a href="https://codepen.io/deannabosschert/pen/eYJeOdE">Organism</a> (header)</li>
+        <li><a href="https://codepen.io/deannabosschert/pen/Rwrjwaa">Template</a> (page with Lorem Ipsum)</li>
+        <li><a href="https://codepen.io/deannabosschert/pen/zYrPxBq">Page</a> (full web page with content)</li>
+        </ul>
+        <h3 id="sources">Sources</h3>
+        <ul>
+        <li>Frost, B. (2019, 30 augustus). <em>Atomic Design</em>. Geraadpleegd van <a href="https://bradfrost.com/blog/post/atomic-web-design/">https://bradfrost.com/blog/post/atomic-web-design/</a></li>
+        <li>National Network to End Domestic Violence. (2018, 21 maart). <em>8 Everyday Way to Fight Racism - Elimination of Racial Discrimination</em>. Geraadpleegd op 30 juni 2020, van <a href="https://nnedv.org/latest_update/8-everyday-ways-to-fight-racism/">https://nnedv.org/latest_update/8-everyday-ways-to-fight-racism/</a></li>
+        </ul>
       </article>
       <article class="article_3" id="article_3">
         <h2>Wicked CSS</h2>
