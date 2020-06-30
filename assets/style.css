@@ -603,19 +603,12 @@ input:checked+.page+.page+input+.page {
 
 .webpage footer {
   margin: 0;
-  margin-left: 14%;
-  justify-content: center;
-  align-items: center;
   width: 100%;
+  margin-left: -3rem;
 }
 
 .webpage footer p {
-  align-self: flex-start;
   flex-wrap: wrap;
-  /* width: 114%; */
-  /* min-width: 114%; */
-  /* max-width: 114%; */
-  /* margin-left: -14%; */
 }
 
 .webpage footer p span {
