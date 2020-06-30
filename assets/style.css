@@ -30,27 +30,38 @@ h1 {
 
 h2 {
   font-size: 2.4rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   font-weight: bold;
 }
 
 h3 {
   font-size: 1.9rem;
+  margin-top: 1.5rem;
 }
 
 h4 {
   font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 1.2rem;
+  font-weight: bold;
 }
 
 p, li {
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
-  line-height: 1.4;
+  line-height: 1.7;
+  max-width: 85%;
 }
 
-li {
+p li {
   list-style: none;
-  max-width: 75vw;
+  min-width: 370px;
+  max-width: 85%;
 }
 
 article li::before {
@@ -97,11 +108,6 @@ article li::before {
   max-width: 80vw;
 }
 
-.artikelen p {
-  max-width: 90%;
-  line-height: 1.4;
-}
-
 .artikelen h2 {
   margin-top: 3rem;
 }
@@ -119,11 +125,6 @@ article li::before {
   margin-top: 2rem;
 }
 
-.artikelen h4 {
-  margin-bottom: 1rem;
-  margin-top: 1rem;
-  font-weight: bold;
-}
 
 .artikelen img {
   max-width: 100%;
@@ -301,7 +302,6 @@ input:checked+.page+.page+input+.page {
 .book p {
   max-width: 85%;
   max-height: 100%;
-  line-height: 1.4;
   font-size: 1.2rem;
 }
 
@@ -309,7 +309,52 @@ input:checked+.page+.page+input+.page {
   padding: 1rem 0 3rem 1rem;
   max-width: 50%;
   max-height: 100%;
-  line-height: 1.4;
   font-size: 1.3rem;
   margin-top: 1rem;
+}
+
+.artikelen_wrapper article {
+  padding: 2rem 4rem;
+  border-radius: 6px;
+  background: #fefefe;
+  box-shadow: inset 6px 6px 12px #f1f1f1,
+    inset -6px -6px 12px #ffffff;
+  margin-bottom: 4rem;
+}
+
+/* EXAMPLES IN 'Atomic Design'-ARTICLE */
+.example {
+  padding: 2rem;
+  border-radius: 6px;
+  background: #fefefe;
+  box-shadow: inset 6px 6px 12px #f1f1f1,
+    inset -6px -6px 12px #ffffff;
+  min-width: 370px;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin: 2rem 0rem;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  margin-top: 4rem;
+}
+
+.button button {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  padding: 1rem 2rem;
+  width: 15rem;
+  border-radius: 6px;
+  background-color: #490c63;
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: sans-serif;
+  letter-spacing: 1.3px;
 }
