@@ -30,27 +30,39 @@ h1 {
 
 h2 {
   font-size: 2.4rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   font-weight: bold;
 }
 
 h3 {
   font-size: 1.9rem;
+  margin-top: 1.5rem;
 }
 
 h4 {
   font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 1.2rem;
 }
 
 p, li {
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
-  line-height: 1.4;
+  line-height: 1.7;
+  max-width: 85%;
 }
 
-li {
+p li {
   list-style: none;
-  max-width: 75vw;
+  min-width: 370px;
+  max-width: 85%;
 }
 
 article li::before {
@@ -97,11 +109,6 @@ article li::before {
   max-width: 80vw;
 }
 
-.artikelen p {
-  max-width: 90%;
-  line-height: 1.4;
-}
-
 .artikelen h2 {
   margin-top: 3rem;
 }
@@ -117,12 +124,6 @@ article li::before {
 .artikelen h3 {
   margin-bottom: 1.5rem;
   margin-top: 2rem;
-}
-
-.artikelen h4 {
-  margin-bottom: 1rem;
-  margin-top: 1rem;
-  font-weight: bold;
 }
 
 .artikelen img {
@@ -301,7 +302,6 @@ input:checked+.page+.page+input+.page {
 .book p {
   max-width: 85%;
   max-height: 100%;
-  line-height: 1.4;
   font-size: 1.2rem;
 }
 
@@ -309,7 +309,281 @@ input:checked+.page+.page+input+.page {
   padding: 1rem 0 3rem 1rem;
   max-width: 50%;
   max-height: 100%;
-  line-height: 1.4;
   font-size: 1.3rem;
   margin-top: 1rem;
+}
+
+.artikelen_wrapper .artikel {
+  padding: 2rem 4rem;
+  border-radius: 6px;
+  background: #fefefe;
+  box-shadow: inset 6px 6px 12px #f1f1f1,
+    inset -6px -6px 12px #ffffff;
+  margin-bottom: 4rem;
+}
+
+.oprah {
+  display: inline-flex;
+  float: right;
+  width: 20rem;
+  box-shadow:  4px 3px 5px #f1f1f1,
+     -3px -3px 6px #f1f1f1;
+
+}
+
+/* EXAMPLES IN 'Atomic Design'-ARTICLE */
+.example {
+  padding: 2rem;
+  border-radius: 6px;
+  background: #fefefe;
+  box-shadow: inset 1px 1px 3px #f1f1f1,
+    inset -1px -1px 2px #f1f1f1;
+  min-width: 370px;
+  width: 40%;
+  max-width: 90%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin: 2rem 0rem;
+}
+
+.bigger-example {
+  width: 95%;
+
+}
+
+.header {
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-between;
+ background-color: #F2F5FF;
+ border-radius: 6px;
+ width: 97.5%;
+ margin-top: 2rem;
+ padding: 1rem;
+}
+
+.header h1, .logo {
+  padding: 1rem;
+}
+
+.header h1 {
+  font-size: 1.5rem;
+  font-family: sans-serif;
+  margin: 0;
+  line-height: 1.3;
+  padding: 0rem 2rem;
+}
+
+.header .logo {
+  border: 2px solid #FFEEEE;
+  background-color: white;
+  padding: 1rem 1.5rem;
+  margin-left: 1rem;
+  font-weight: 100;
+}
+
+.header nav ul {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ border-left: 3px solid #490c63;
+ align-self: center;
+ margin-right: 0.5rem;
+}
+
+.header nav ul li::before{
+  list-style: none;
+  content: "";
+}
+
+.header nav ul li {
+  margin-bottom: 0;
+}
+
+.header nav ul li a {
+  padding: 1rem;
+  font-size: 1.5rem;
+  font-weight: 550;
+  letter-spacing: 1.3px;
+  text-decoration: none;
+  color: black;
+}
+.header .searchForm {
+  margin: 0;
+}
+
+.header .searchForm label {
+  display: none;
+}
+
+.header .searchForm input {
+  font-size: 1rem;
+  background-color: white;
+}
+
+.header .searchForm button {
+  font-size: 1rem;
+}
+
+
+.button {
+  display: flex;
+  flex-direction: column;
+}
+
+.button button {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  padding: 1rem 2rem;
+  width: 15rem;
+  border-radius: 6px;
+  background-color: #490c63;
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: sans-serif;
+  letter-spacing: 1.3px;
+}
+
+.searchForm {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.searchForm label {
+  width: 100%;
+  font-size: 1.5rem;
+  padding-left: 2rem;
+  padding-bottom: 0.3rem;
+}
+
+.searchForm input, .searchForm button {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  box-shadow: 3px 3px 2px #F2F5FF;
+  width: 50%;
+}
+
+.searchForm input {
+  width: 60%;
+  border-radius: 6px 0px 0px 6px;
+  border: none;
+  background-color: #F2F5FF;
+}
+
+.searchForm button {
+  width: 40%;
+  border-radius: 0px 6px 6px 0px;
+  border: none;
+  background-color: #490c63;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  letter-spacing: 1.3px;
+}
+
+.template {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-height: 35rem;
+  overflow: scroll;
+}
+
+.template main, footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 4rem;
+}
+
+.template main h1 {
+  font-size: 3rem;
+  margin-top: 1.5rem;
+}
+
+.template .posts {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.template article {
+  min-width: 20rem;
+  max-width: 25rem;
+  background-color: #FFEEEE;
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  margin: 1rem;
+}
+
+
+.template article h3 {
+  font-size: 1.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid black;
+  max-width: 80%;
+}
+
+.template article p {
+  font-size: 1.2rem;
+}
+
+.template footer {
+  margin-left: -14%;
+}
+
+.template footer p {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.template footer p span {
+  padding: 0rem 1rem;
+  color: #d8d5e0;
+  font-weight: 800;
+}
+
+.template main subtitle {
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+.webpage {
+
+}
+
+.webpage footer {
+  margin: 0;
+  width: 100%;
+}
+
+
+.webpage footer p span {
+  border-left: 1px solid #4f4370;
+}
+
+.webpage footer p span a {
+  text-decoration: none;
+  color: #d8d5e0;
+  font-weight: 800;
+  padding: 0.75rem;
+}
+
+.first-child {
+  border: none;
 }
