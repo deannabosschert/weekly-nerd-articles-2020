@@ -122,7 +122,7 @@
         </ul>
       </nav>
       <div class="artikelen_wrapper">
-        <article class="article_1" id="article_1">
+        <article class="artikel article_1" id="article_1">
           <h2>Eerste Hulp bij Techvakken</h2>
           <h3>‘Waar begin ik?’</h3>
           <p>Velen hebben dezelfde eerste struggle; waar begin je überhaupt?
@@ -262,7 +262,7 @@
               <a href="https://developer.mozilla.org/">https://developer.mozilla.org/</a></li>
           </ul>
         </article>
-        <article class="article_2" id="article_2">
+        <article class="artikel article_2" id="article_2">
           <h2>Atomic Design</h2>
           <p>When I first heard about the term ‘Atomic Design’, it was only 2.5 years ago. All this time, the idea of working with this principle lingered around in my mind. The concept was so easy and clear; this is how I would like to develop
             things. Also, this year, I figured I really wanted to make some ‘personal’ set of resources/standard components to use in my projects so I can focus more on learning other things beside spending all my time on design only instead of code.
@@ -285,21 +285,222 @@
           </ul>
           <div class="example">
             <h5>Example of an atom:</h5>
-          <div class="button">
-            <button>search</button>
-          </div>
+            <div class="button">
+              <button>search</button>
+            </div>
           </div>
           <h4 id="molecules">Molecules</h4>
           <p>What happens when you combine atoms? You get a molecule!</p>
-          <p><img src="https://media.giphy.com/media/keTSNzurguH0r0PwLk/giphy.gif" alt="oprah gif of ‘and you get a molecule’">
+          <p><img class="oprah" src="https://media.giphy.com/media/keTSNzurguH0r0PwLk/giphy.gif" alt="oprah gif of ‘and you get a molecule’">
             These are the first valuable ‘building blocks’. They may form something like a search field. It’s just a group of atoms chilling out and working together, united.</p>
-          <h4 id="organisms">Organisms</h4>
+          <div class="example">
+            <h5>Example of a molecule:</h5>
+            <div class="searchForm">
+              <label for="site-search">Search the site:</label>
+              <input type="search" id="site-search" name="q" aria-label="Search through site content">
+              <button>search</button>
+            </div>
+          </div>
+          <h4>Organisms</h4>
           <p>Organisms are basically just molecules put into context. Meaningful chunks of blocks. It’s a standalone thing, like a header or footer and re-usable among pages.</p>
+          <div class="example bigger-example">
+            <h5>Example of an organism:</h5>
+            <header class="header">
+              <div class="logo">logo</div>
+              <h1>Atomic</h1>
+              <nav>
+                <ul>
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">About</a></li>
+                  <li><a href="#">Blog</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+              </nav>
+              <div class="searchForm">
+                <label for="site-search">Search the site:</label>
+                <input type="search" id="site-search" name="q" aria-label="Search through site content">
+                <button>Search</button>
+              </div>
+              <header>
+          </div>
           <h4 id="templates">Templates</h4>
           <p>Templates are an even bigger part; think of it like the organisms placed into a layout; just like bees inside their hive. It defines the content structure, like a wireframe. Now, it’s beginning to look like an actual page, right? You
             only need to get rid of the Lorem Ipsum.</p>
+          <div class="example bigger-example">
+            <h5>Example of a template:</h5>
+            <div class="template">
+              <header class="header">
+                <div class="logo">logo</div>
+                <h1>Atomic Design</h1>
+                <nav>
+                  <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Contact</a></li>
+                  </ul>
+                </nav>
+                <div class="searchForm">
+                  <label for="site-search">Search the site:</label>
+                  <input type="search" id="site-search" name="q" aria-label="Search through site content">
+                  <button>Search</button>
+                </div>
+              </header>
+              <main>
+                <h1>✨ My blog ✨</h1>
+                <section class="posts">
+                  <article>
+                    <h3>Title</h3>
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                      consequat.</p>
+                  </article>
+                  <article>
+                    <h3>Title</h3>
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                      consequat.</p>
+                  </article>
+                  <article>
+                    <h3>Title</h3>
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                      consequat.</p>
+                  </article>
+                  <article>
+                    <h3>Title</h3>
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                      consequat.</p>
+                  </article>
+                  <article>
+                    <h3>Title</h3>
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                      consequat.</p>
+                  </article>
+                  <article>
+                    <h3>Title</h3>
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                      consequat.</p>
+                  </article>
+                </section>
+              </main>
+              <footer>
+                <p>
+                  <span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span><span>bottomtext</span>
+                </p>
+              </footer>
+            </div>
+          </div>
           <h4 id="pages">Pages</h4>
           <p>This is essentially the ‘final product’. It’s the template(s) combined to a page, filled with content. Ready to test!</p>
+          <div class="example bigger-example webpage">
+            <h5>Example of a page:</h5>
+            <div class="template">
+              <header class="header">
+                <div class="logo">logo</div>
+                <h1>#BLM</h1>
+                <nav>
+                  <ul>
+                    <li><a href="https://nnedv.org/latest_update/8-everyday-ways-to-fight-racism/">Home</a></li>
+                    <li><a href="https://nnedv.org/latest_update/8-everyday-ways-to-fight-racism/">About</a></li>
+                    <li><a href="https://nnedv.org/latest_update/8-everyday-ways-to-fight-racism/">Blog</a></li>
+                    <li><a href="https://nnedv.org/latest_update/8-everyday-ways-to-fight-racism/">Contact</a></li>
+                  </ul>
+                </nav>
+                <div class="searchForm">
+                  <label for="site-search">Search the site:</label>
+                  <input type="search" id="site-search" name="q" aria-label="Search through site content">
+                  <button>Search</button>
+                </div>
+              </header>
+              <main>
+                <h1>✨ 8 Everyday Ways to Fight Racism ✨</h1>
+                <subtitle>Here are eight ways that you can fight racism in your community.</subtitle>
+                <section class="posts">
+                  <article>
+                    <h3>Learn to recognize and understand your own privilege.</h3>
+                    <p>
+                      One of the first steps to eliminating racial discrimination is learning to recognize and understand your own privilege. Racial privilege plays out across social, political, economic, and cultural environments. Checking your
+                      privilege and
+                      using your privilege to dismantle systemic racism are two ways to begin this complex process.
+
+                      However, race is only one aspect of privilege. Religion, gender, sexuality, ability-status, socio-economic status, language, and citizenship status can all affect your level of privilege. Using the privileges that you have to
+                      collectively
+                      empower others requires first being aware of those privileges and acknowledging their implications. Learn more about the many types of privilege.</p>
+                  </article>
+
+                  <article>
+                    <h3>2. Examine your own biases and consider where they may have originated.</h3>
+                    <p>
+                      What messages did you receive as a kid about people who are different from you? What was the racial and/or ethnic make-up of your neighborhood, school, or religious community? Why do you think that was the case? These
+                      experiences produce
+                      and reinforce bias, stereotypes, and prejudice, which can lead to discrimination. Examining our own biases can help us work to ensure equality for all.
+
+                      We encourage you to check out the PBS documentary, Race: The Power of Illusion, which tackles the social construct of race in the United States.</p>
+                  </article>
+
+                  <article>
+                    <h3>3. Validate the experiences and feelings of people of color.</h3>
+                    <p>
+                      Another way to address bias and recognize privilege is to support the experiences of other people and engage in tough conversations about race and injustice. We cannot be afraid to discuss oppression and discrimination for fear
+                      of “getting
+                      it wrong.” Take action by learning about the ways that racism continues to affect our society. For example, by watching documentaries, such as 13th, or reading books, such as Americanah or Hidden Figures.*
+
+                      As advocates, we learn about domestic violence by listening to survivors of domestic violence. Similarly, the best way to understand racial injustice is by listening to people of color.</p>
+                  </article>
+
+
+                  <article>
+                    <h3>4. Challenge the “colorblind” ideology.</h3>
+                    <p>
+                      It is a pervasive myth that we live in a “post-racial” society where people “don’t see color.” Perpetuating a “colorblind” ideology actually contributes to racism.
+
+                      When Dr. Martin Luther King, Jr. described his hope for living in a colorblind world, he did not mean that we should ignore race. It is impossible to eliminate racism without first acknowledging race. Being “colorblind” ignores
+                      a
+                      significant part of a person’s identity and dismisses the real injustices that many people face as a result of race. We must see color in order to work together for equity and equality.</p>
+                  </article>
+
+                  <article>
+                    <h3>5. Call out racist “jokes” or statements.</h3>
+                    <p>
+                      Let people know that racist comments are not okay. If you are not comfortable or do not feel safe being confrontational, try to break down their thought process and ask questions. For example, “That joke doesn’t make sense to
+                      me, could you
+                      explain it?” Or “You may be kidding, but this is what it means when you say that type of thing.” Do not be afraid to engage in conversations with loved ones, coworkers, and friends. Microaggressions, which can appear in the form
+                      of racist
+                      jokes or statements, perpetuate and normalize biases and prejudices. Remember that not saying anything – or laughing along – implies that you agree.</p>
+                  </article>
+
+                  <article>
+                    <h3>6. Find out how your company or school works to expand opportunities for people of color.</h3>
+                    <p>
+                      Systemic racism means that there are barriers – including wealth disparities, criminal justice bias, and education and housing discrimination – that stack the deck against people of color in the workplace or at school. For
+                      example, the
+                      African American Policy Forum (AAPF) reported that in 2014, a 12-year-old girl faced criminal charges, in addition to expulsion from school, for writing “hi” on a locker room wall. Their campaign, #BlackGirlsMatter, addresses
+                      the issues of
+                      overpoliced and underprotected Black girls within the education system. It is important for companies and schools to address these issues and promote a culture of equity.</p>
+                  </article>
+                  <article>
+                    <h3>7. Be thoughtful with your finances.</h3>
+                    <p>
+                      Take a stand with your wallet. Know the practices of companies that you invest in and the charities that you donate to. Make an effort to shop at small, local businesses and give your money back to the people living in the
+                      community. Your
+                      state or territory may have a directory of local, minority-owned businesses in your area.</p>
+                  </article>
+
+                  <article>
+                    <h3>8. Adopt an intersectional approach in all aspects of your life.</h3>
+                    <p>
+                      Remember that all forms of oppression are connected. You cannot fight against one form of injustice and not fight against others.</p>
+                  </article>
+                </section>
+              </main>
+              <footer>
+                <p>
+                  <span class="first-child"><a href="https://thelovelandfoundation.org/loveland-therapy-fund/">Loveland Foundation Therapy Fund</a></span><span><a href="https://www.theokraproject.com/">The Okra Project</a></span><span><a
+                      href="https://www.innocenceproject.org/">The Innocence Project</a></span><span><a href="https://www.withuiswerk.nl/">Withuiswerk.nl</a></span><span><a href="https://blacklivesmatter.com/">Black Lives Matter</a></span><span><a
+                      href="https://blacktechpipeline.substack.com/">Black Tech Pipeline</a></span><span><a href="https://www.tropenmuseum.nl/sites/default/files/2018-06/WordsMatter_Nederlands.PDF">Words Matter</a></span><span><a
+                      href="https://decorrespondent.nl/11317/institutioneel-racisme-in-nederland-wat-het-is-waar-het-zit-en-wat-jij-eraan-kunt-doen/815691855462-f160ab8e">Institutional Racism</a></span>
+                </p>
+              </footer>
+            </div>
+          </div>
           <h3 id="conclusion">Conclusion</h3>
           <p>Okay so, it eventually took me a whole day to write this one article because it was actually so much fun to try and make a beginning with my pattern library, based on Atomic Design. I highly recommend building your libraries like that;
             coding in isolation saves lots of headaches.</p>
@@ -318,7 +519,7 @@
                 href="https://nnedv.org/latest_update/8-everyday-ways-to-fight-racism/">https://nnedv.org/latest_update/8-everyday-ways-to-fight-racism/</a></li>
           </ul>
         </article>
-        <article class="article_3" id="article_3">
+        <article class="artikel article_3" id="article_3">
           <h2>Wicked CSS</h2>
           <h3>titeldingen</h3>
         </article>
