@@ -22,5 +22,8 @@
     "@11ty/eleventy": "^0.11.0",
     "rimraf": "^3.0.2",
     "file-size": "^1.0.0"
+  },
+  "dependencies": {
+    "elevator.js": "^1.0.1"
   }
 }
