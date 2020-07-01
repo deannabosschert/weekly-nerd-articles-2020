@@ -515,6 +515,10 @@ input:checked+.page+.page+input+.page {
   overflow: scroll;
 }
 
+.example a {
+  background-color: inherit;
+}
+
 .template main, footer {
   display: flex;
   flex-direction: column;
