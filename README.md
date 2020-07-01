@@ -65,3 +65,10 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 
 # [https://techkech.nl/](https://techkech.nl/)
+
+## Medium
+For better readability, I also put my 3 articles on Medium:
+
+### 1. [Eerste Hulp bij Techvakken](https://medium.com/@deanna.bosschert/eerste-hulp-bij-techvakken-adc4d9ae6186?sk=1fd6c60cdbdd5ca20a38181881e58565)
+### 2. [Atomic Design](https://medium.com/@deanna.bosschert/atomic-design-6c8125a6c6fd?sk=c5329fe9ea25bfae70dd89abe45288f7)
+### 3. [Designing when you can't design](https://medium.com/@deanna.bosschert/designing-when-you-cant-design-281d6b50792b?sk=416265b6a2dee3b4f9e856fd71a81dcb)
