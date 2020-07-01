@@ -73,6 +73,16 @@ article li::before {
   font-size: 0.7rem;
 }
 
+a {
+  background-color: #FFEEEE;
+  text-decoration: underline;
+  font-style: italic;
+  font-weight: 200;
+  color: black;
+  padding: 0.3rem 1rem 0.3rem 0.6rem;
+  margin: 1rem 0rem;
+}
+
 .weekly-nerd-book {
   max-width: 80vw;
   max-height: 700px;
@@ -101,6 +111,7 @@ article li::before {
   font-weight: bolder;
   text-decoration: none;
   color: black;
+  background-color: inherit;
 }
 
 .artikelen {
@@ -311,6 +322,11 @@ input:checked+.page+.page+input+.page {
   max-height: 100%;
   font-size: 1.3rem;
   margin-top: 1rem;
+}
+.artikelen_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .artikelen_wrapper .artikel {
@@ -644,7 +660,7 @@ input:checked+.page+.page+input+.page {
   padding: 2rem 2.5rem;
 }
 
-.oneExample img {
+ img {
   object-fit: contain;
 }
 
@@ -666,4 +682,16 @@ input:checked+.page+.page+input+.page {
   text-decoration: none;
   display: flex;
   align-items: center;
+}
+
+.article_1 {
+  max-width: 55rem;
+}
+
+.article_2 {
+  max-width: 65rem;
+}
+
+.article_3 {
+  max-width: 55rem;
 }
