@@ -1,4 +1,5 @@
 # Weekly Nerd @cmda-minor-web · 2019-2020
+**Link to live demo:** https://weekly-nerd.netlify.app/
 
 
 <details>
