@@ -63,8 +63,9 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 </details>
 
+![screenshot of website](https://github.com/deannabosschert/weekly-nerd-articles-2020/blob/master/screenshot.png)
 
-# Weekly Nerd's
+# Weekly Nerds
 ## Best Practices at Q42 by Guido Bouman
 ![sketchnotes of the Weekly Nerd by Guido: picture 1 of 3](https://github.com/deannabosschert/weekly-nerd-articles-2020/blob/master/docs/img/best_practices_at_q42_1.png)
 
